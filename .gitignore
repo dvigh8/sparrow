@@ -1,2 +1,5 @@
 data/*
 .DS_Store
+*/data/*
+first_topo/data/*
+first_topo/cache/*
